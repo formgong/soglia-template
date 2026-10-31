@@ -37,6 +37,8 @@ The form sends `name`, `email`, `phone`, `city`, `message`, `privacy` (required)
 
 **Images.** All six were made for this template with FLUX.1 [schnell] (Apache 2.0), on the free Hugging Face Space and the AI Horde. You may use them in your own site. Replace them with photos of your own work, keeping the file names.
 
+The "Powered by Formgong" links point to `https://formgong.com/review-page/fk_your_access_key`, so the same find and replace covers them. Once your key is in, the first click from your published site makes your own public review page on Formgong, where clients read and leave reviews, and every later click opens it. Switch the page off in Formgong (Reviews → your site → Settings) or change those links.
+
 ## Українська
 
 Окремий шаблон, не варіація Lattice: без сітки. Головна сторінка — один екран зі слайдером:
@@ -50,3 +52,5 @@ The form sends `name`, `email`, `phone`, `city`, `message`, `privacy` (required)
 **Форма:** замініть `fk_your_access_key` на ключ форми з кабінету Formgong. Форма надсилає ім'я, пошту, телефон, місто, запит, обов'язкову згоду на обробку даних і необов'язкову згоду на розсилку.
 
 **Картинки:** усі згенеровано для цього шаблону моделлю FLUX.1 [schnell] (ліцензія Apache 2.0) через безкоштовні Hugging Face і AI Horde. Замініть їх фото своїх робіт, зберігши назви файлів.
+
+Посилання «Powered by Formgong» ведуть на `https://formgong.com/review-page/fk_your_access_key`, тож та сама заміна ключа оновить і їх. Коли ключ стоїть, перший перехід з вашого опублікованого сайту створює вашу публічну сторінку відгуків на Formgong, де клієнти читають і залишають відгуки; далі посилання відкриває її. Вимкнути сторінку можна у Formgong (Відгуки → ваш сайт → Налаштування) або змінити ці посилання.
